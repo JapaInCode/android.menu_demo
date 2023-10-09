@@ -1,6 +1,8 @@
 # Esse menu que você irá ultilizar é DEMO
 
 Está funcionando apenas consultas de CPF e CNPJ
+Caso a função de Consulta do CPF ou CNPJ pare de funcionar, provavelmente pq mudei a API
+Mas lembre-se, você ainda pode adquirir o Menu Mini-Tools Atualizado entrando em contat comigo pelo Telegram
 
 # Consultas Mini-Tools V1
 
