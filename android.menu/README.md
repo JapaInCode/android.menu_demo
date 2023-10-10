@@ -18,7 +18,12 @@ Este é o Consultas Mini-Tools V1, um menu com várias ferramentas de consulta e
   
 ![image](https://github.com/JapaInCode/android.menu_demo/assets/100159070/0529dc97-aa9b-4e9a-b2a4-9beb19c891bf)
 
-## Consultas Mini-Tools V1 (Pago)
+# Menu Interpol V5
+
+- Todas ferramentas, checkers, selfs para discord, grabber, kl e etc na versão V5
+.obs: essa versão "Interpol V5" do mini-tools é paga, mas todo retorno do código é mais completo.
+
+### Consultas Mini-Tools V1 (Pago)
 
 - Consultar CPF
 - Consultar CNPJ
