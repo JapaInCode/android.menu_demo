@@ -15,6 +15,7 @@ Este é o Consultas Mini-Tools V1, um menu com várias ferramentas de consulta e
 
 - Consultar CPF (busca simples)
 - Consultar CNPJ (busca completa)
+  
 ![image](https://github.com/JapaInCode/android.menu_demo/assets/100159070/0529dc97-aa9b-4e9a-b2a4-9beb19c891bf)
 
 ### Consultas Mini-Tools V1 (Pago)
