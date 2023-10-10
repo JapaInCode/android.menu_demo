@@ -75,5 +75,5 @@ Se você encontrar algum problema ou tiver sugestões, não hesite em entrar em 
 
 Contato do desenvolvedor: 
 - Telegram: [🚀 @JapaInCode](https://t.me/JapaInCode)
-- Discord: [💬 Seu Nome no Discord](https://discordapp.com/users/seu_id_discord)
+- Discord: [💬 Seu Nome no Discord](https://discordapp.com/users/997230544309981307)
 
