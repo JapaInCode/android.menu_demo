@@ -3,6 +3,9 @@
 Está funcionando apenas consultas de CPF e CNPJ
 Caso a função de Consulta do CPF ou CNPJ pare de funcionar, provavelmente pq mudei a API
 Mas lembre-se, você ainda pode adquirir o Menu Mini-Tools Atualizado entrando em contat comigo pelo Telegram
+Usuário e Senhas padrões: admin admin
+
+![image](https://github.com/JapaInCode/android.menu_demo/assets/100159070/b04e62e1-1bf5-43f2-99c3-7c139cc27b54)
 
 # Consultas Mini-Tools V1
 
