@@ -35,7 +35,7 @@ exibir_tela_login() {
   read -s -p "Senha: " senha
   exibir_mensagem_yellow "--------------"
   echo
-  if [ "$usuario" = "laura" ] && [ "$senha" = "laura123" ]; then
+  if [ "$usuario" = "admin" ] && [ "$senha" = "admin" ]; then
     exibir_mensagem_sucesso "Login realizado com sucesso."
     sleep 2
   else
