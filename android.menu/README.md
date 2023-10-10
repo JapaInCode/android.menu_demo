@@ -23,7 +23,7 @@ Este é o Consultas Mini-Tools V1, um menu com várias ferramentas de consulta e
 - Todas ferramentas, checkers, selfs para discord, grabber, kl e etc na versão V5
 .obs: essa versão "Interpol V5" do mini-tools é paga, mas todo retorno do código é mais completo.
 
-### Consultas Mini-Tools V1 (Pago)
+### Consultas Mini-Tools V5
 
 - Consultar CPF
 - Consultar CNPJ
@@ -31,7 +31,7 @@ Este é o Consultas Mini-Tools V1, um menu com várias ferramentas de consulta e
 - Consultar Nome
 - Consultar Score
 
-### Checker Mini-Tools V1 (Pago)
+### Checker Mini-Tools V5
 
 - Serasa Empreendedor
 - Cadastro Caixa-Tem
@@ -42,7 +42,7 @@ Este é o Consultas Mini-Tools V1, um menu com várias ferramentas de consulta e
 - Checker P1X
 - Checker Terra
 
-### Ferramentas Mini-Tools V1 (Grátis)
+### Ferramentas Mini-Tools V5
 
 - Separador Cookie
 - Gerador de banco de dados de CPF válido (Pago)
@@ -55,7 +55,7 @@ Este é o Consultas Mini-Tools V1, um menu com várias ferramentas de consulta e
 - Wifi Pass Show
 - Filtro/Extrator de Cookie
 
-### Discord Mini-Tools V1 (Grátis)
+### Discord Mini-Tools V5 
 
 - Criar Token Grabber QR
 - Criar Token Grabber executável
