@@ -73,4 +73,7 @@ Este projeto está em constante desenvolvimento e novas funcionalidades serão a
 
 Se você encontrar algum problema ou tiver sugestões, não hesite em entrar em contato com o desenvolvedor.
 
-Contato do desenvolvedor: @JapaInCode (Telegram)
+Contato do desenvolvedor: 
+- @JapaInCode (Telegram)
+- japoneslofy (discord)
+
