@@ -1,3 +1,8 @@
+### CodeCrafter
+- Atualização para um amigo, que deixei uma API de teste, caso queiram, é um .exe para computador.
+- O código está limpo, mas compilei para nenhum safadinho roubar a API. 
+- Boa diversão para vocês.
+
 # Esse menu que você irá ultilizar é DEMO
 
 Está funcionando apenas consultas de CPF e CNPJ
